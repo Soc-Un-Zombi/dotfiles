@@ -1,2 +1,3 @@
 # Dotfiles
- 
+
+# Table of Contents
